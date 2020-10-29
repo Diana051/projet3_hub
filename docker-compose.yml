@@ -1,0 +1,49 @@
+version: "3.3"
+
+services:
+
+  traefik:
+    image: "traefik:v2.3"
+    container_name: "trfk"
+    command:
+      #- "--log.level=DEBUG"
+      - "--api.insecure=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:80"
+      - "--entrypoints.websecure.address=:443"
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+
+    #Serveur web
+  server-web:
+    build: "./server-web" #where the dockerfile is
+    volumes:
+      - "/usr/src/server-web"
+    image: "serverweb:1" # pas sure 
+    container_name: "server"
+    labels:
+    - "traefik.enable=true" #traefik expose the container
+    - "traefik.http.routers.server.rule=Host(`server.localhost`)"
+  # - "traefik.http.routers.server.entrypoints=traefik"
+
+  #Build: docker-compose up -d
+
+  
+  engin1:
+    build: "./Engin1"
+    volumes: 
+    - "/usr/src/Engin1"
+    image: "engin1:1.0"   
+    container_name: "engin1"
+    labels:
+    - "traefik.enable=true" #traefik expose the container
+    #- "traefik.http.routers.engin1.rule=Host(`engin1.localhost`)"
+    - "traeffik.http.services.engin1.loadbalance.server.port = 5000"
+    - "traefik.http.routers.engin1.rule=Path('/station/recherche', '/station/<code>')"
+    ports:
+    - "5000:5000"
