@@ -13,4 +13,4 @@ ENV FLASK_APP /inf3995-02/Engin1/engin1.py
 
 ENTRYPOINT ["python", "-m", "flask", "run", "--host=0.0.0.0"]
 
-EXPOSE 5000
+EXPOSE 5001
