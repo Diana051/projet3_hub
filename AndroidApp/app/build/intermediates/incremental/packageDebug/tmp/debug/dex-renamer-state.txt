@@ -1,0 +1,4 @@
+#Thu Oct 29 03:04:29 EDT 2020
+base.0=/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

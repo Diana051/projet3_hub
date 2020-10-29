@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_engin1.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_engin1.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/navigation_nav_graph2.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_engin1.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-xhdpi/ic_engin1.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_engin2.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_engin2.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_search.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_engin3.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-mdpi/ic_engin3.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_predictions.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/fragment_predictions.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_second.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_engin1.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_engin1.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_spinner_item.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_engin3.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-xxhdpi/ic_engin3.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_engin3.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-xhdpi/ic_engin3.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_engin2.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-mdpi/ic_engin2.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_engin1.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_engin1.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_engin1.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-hdpi/ic_engin1.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_engin3.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-hdpi/ic_engin3.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_engin3.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_engin3.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_activity_second.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/activity_second.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_engin2.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-xxhdpi/ic_engin2.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-v24_bixi_logo.jpg.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-v24/bixi_logo.jpg"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_data.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/fragment_data.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_engin2.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_engin2.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_engin1.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-mdpi/ic_engin1.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_content_second.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/content_second.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/layout_fragment_first.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_engin2.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-hdpi/ic_engin2.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_engin2.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-xhdpi/ic_engin2.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_engin3.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_engin3.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_engin1.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-xxhdpi/ic_engin1.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_engin2.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_engin2.xml"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_engin3.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_engin3.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    }
+]

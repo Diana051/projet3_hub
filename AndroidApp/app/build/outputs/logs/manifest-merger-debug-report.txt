@@ -1,0 +1,397 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.kittinunf.fuel:fuel-android:2.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/78242ed76967f6737489f9ab31795535/jetified-fuel-android-2.2.1/AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/b8f3200ef077d183d454061553116830/jetified-navigation-dynamic-features-fragment-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/f88fe78b787e5c23e0c4caf958f917c3/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/koko/.gradle/caches/transforms-2/files-2.1/308a4737858001d87e4e14df88e34642/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/a154f2ef6090b48bf33fecd47d74794f/navigation-ui-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/aa1bb8e35d9cf92c2ff4c15cd0e743bf/jetified-navigation-dynamic-features-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/227731168a1ccf84e65d5287dc996e7e/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/79e38ea1fd58b37e0fccf37555e17b1a/navigation-common-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/d9cd11976ac2061189fb4202d8fdabca/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/e53738541285550c85fa81356b5daf33/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/cdadec86dc39a404391fa5b6faeceb36/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3fa2828169f346f55fa907c561228025/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/50977336ea13f932288e02607db0aaf0/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4cd419b40a6d220ec490cea3329f3d83/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android-viewmodel:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/5cfbe7466b757b0fe3616d11cb2c3725/jetified-koin-android-viewmodel-2.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android-scope:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/358d5ca1913cebb78cd459629cecbbbd/jetified-koin-android-scope-2.1.3/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/8327582b7624d1f4259edd1f4691ad1e/jetified-koin-android-2.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/941583d569667513916024595c64c50c/navigation-ui-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e00b8607d888fe9d03771a9a16876279/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/koko/.gradle/caches/transforms-2/files-2.1/95dc121ca492af64217ccecc35a96536/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/cb139b455ca8a3f6429330689692142b/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/033a6ba54ab0aa3cc1c10902106907ab/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c05771ef9c076182d7d1072f4229ecc8/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/7e67bc755983838d593d3a384e9ac220/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9a551ae942fbca9c0469a993669e12f4/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4efc20200ab32a9f3078402a42e4e2fd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/75f3b6251b2937759e1f71ff480067c1/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1826852ce21e42aebcf2d46259f4a5ae/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/b8ef62eaf23c3aeffd9c86661ba535c1/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/e8733584c4ba925fb77f98254e8b745a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c215ac24b652d941b441e58998851840/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/60d464cfd62ff38f30851aeec6833b4a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/43c81f55064cfd9f09f607abe2bb449f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e4f54826299c535d666471b445207072/navigation-fragment-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6690efe43a27095f37ffe21b6caf856b/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/koko/.gradle/caches/transforms-2/files-2.1/35fd2816bf70f24efa8ecc27d54cf9ee/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c7c997b9c9f2f5bf5667962147a21ae5/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6fba5b6758e704b96f90f13c2846aa67/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/74e4bb884ea18e267f2bd1956987746a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/e59cd68c25cdc4d173778eab38f555b3/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/73e37dbce88c7e0db204f97e210735af/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/koko/.gradle/caches/transforms-2/files-2.1/3c6abdd78bfb7a131a96b4fa23a61d90/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ba2c002f79603ea0f3ad92b813f4f3b4/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/koko/.gradle/caches/transforms-2/files-2.1/f13d29420edb2be0fa67a7700fccca50/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/c0520b232a6c5e3d40b9b0cbd85b3b67/navigation-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/510d9cf5d0249635017da8e535f10fa3/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/f3f6b778878cf934f289482ef9df85f4/navigation-common-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/2f19846f5e80eae42c46785513f17ac5/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/03029a3146033f8d3e3d640285074a7d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/d807491847251b886396fa04a5744785/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ea91a91564ee95ed3838cab7ee5492a7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/83953efb4cf224e09130565f904c13d0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/46ecd46949ab9f564de7a4b2771d76e5/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/f2c176abe5b61dd3fb05396c581183c7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/905e1df370bcd1cab5b2c566002212d1/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3bb24e899bb7e51f177981eaa6f802e2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/38f9979670fb85ed6585676a451738d9/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3226cb9798749150f9e1b444c763e8a6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/fcbdde2433082d994f3c20ec72011c36/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4b1cfd6e251da88f5f95851db0720019/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/0b891f647f553d71832d3fc1c35802d4/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/8de24a556d6a01959bc8a2aa8926bac9/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/8059390aa2cd0533d62994559279ff38/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:5:22-76
+application
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [org.koin:koin-android-viewmodel:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/5cfbe7466b757b0fe3616d11cb2c3725/jetified-koin-android-viewmodel-2.1.3/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/5cfbe7466b757b0fe3616d11cb2c3725/jetified-koin-android-viewmodel-2.1.3/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/358d5ca1913cebb78cd459629cecbbbd/jetified-koin-android-scope-2.1.3/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/358d5ca1913cebb78cd459629cecbbbd/jetified-koin-android-scope-2.1.3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e00b8607d888fe9d03771a9a16876279/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e00b8607d888fe9d03771a9a16876279/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/koko/.gradle/caches/transforms-2/files-2.1/95dc121ca492af64217ccecc35a96536/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/koko/.gradle/caches/transforms-2/files-2.1/95dc121ca492af64217ccecc35a96536/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/60d464cfd62ff38f30851aeec6833b4a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/60d464cfd62ff38f30851aeec6833b4a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6690efe43a27095f37ffe21b6caf856b/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6690efe43a27095f37ffe21b6caf856b/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/2f19846f5e80eae42c46785513f17ac5/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/2f19846f5e80eae42c46785513f17ac5/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/83953efb4cf224e09130565f904c13d0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/83953efb4cf224e09130565f904c13d0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:10:3-17:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/2f19846f5e80eae42c46785513f17ac5/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:8:9-40
+activity#t.app.androidApp.Activity1.MainActivity
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:17:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:23:27-74
+activity#t.app.androidApp.SecondActivity
+ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:26:9-27:56
+	android:theme
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml:26:19-49
+uses-sdk
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+MERGED from [com.github.kittinunf.fuel:fuel-android:2.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/78242ed76967f6737489f9ab31795535/jetified-fuel-android-2.2.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.kittinunf.fuel:fuel-android:2.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/78242ed76967f6737489f9ab31795535/jetified-fuel-android-2.2.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/b8f3200ef077d183d454061553116830/jetified-navigation-dynamic-features-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/b8f3200ef077d183d454061553116830/jetified-navigation-dynamic-features-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/f88fe78b787e5c23e0c4caf958f917c3/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/f88fe78b787e5c23e0c4caf958f917c3/navigation-fragment-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/koko/.gradle/caches/transforms-2/files-2.1/308a4737858001d87e4e14df88e34642/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/koko/.gradle/caches/transforms-2/files-2.1/308a4737858001d87e4e14df88e34642/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/a154f2ef6090b48bf33fecd47d74794f/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/a154f2ef6090b48bf33fecd47d74794f/navigation-ui-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/aa1bb8e35d9cf92c2ff4c15cd0e743bf/jetified-navigation-dynamic-features-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/aa1bb8e35d9cf92c2ff4c15cd0e743bf/jetified-navigation-dynamic-features-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/227731168a1ccf84e65d5287dc996e7e/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/227731168a1ccf84e65d5287dc996e7e/navigation-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/79e38ea1fd58b37e0fccf37555e17b1a/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/79e38ea1fd58b37e0fccf37555e17b1a/navigation-common-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/d9cd11976ac2061189fb4202d8fdabca/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/d9cd11976ac2061189fb4202d8fdabca/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/e53738541285550c85fa81356b5daf33/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/e53738541285550c85fa81356b5daf33/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/cdadec86dc39a404391fa5b6faeceb36/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/cdadec86dc39a404391fa5b6faeceb36/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3fa2828169f346f55fa907c561228025/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3fa2828169f346f55fa907c561228025/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/50977336ea13f932288e02607db0aaf0/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/50977336ea13f932288e02607db0aaf0/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4cd419b40a6d220ec490cea3329f3d83/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4cd419b40a6d220ec490cea3329f3d83/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android-viewmodel:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/5cfbe7466b757b0fe3616d11cb2c3725/jetified-koin-android-viewmodel-2.1.3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/5cfbe7466b757b0fe3616d11cb2c3725/jetified-koin-android-viewmodel-2.1.3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/358d5ca1913cebb78cd459629cecbbbd/jetified-koin-android-scope-2.1.3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/358d5ca1913cebb78cd459629cecbbbd/jetified-koin-android-scope-2.1.3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/8327582b7624d1f4259edd1f4691ad1e/jetified-koin-android-2.1.3/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.1.3] /home/koko/.gradle/caches/transforms-2/files-2.1/8327582b7624d1f4259edd1f4691ad1e/jetified-koin-android-2.1.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/941583d569667513916024595c64c50c/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/941583d569667513916024595c64c50c/navigation-ui-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e00b8607d888fe9d03771a9a16876279/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e00b8607d888fe9d03771a9a16876279/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/koko/.gradle/caches/transforms-2/files-2.1/95dc121ca492af64217ccecc35a96536/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /home/koko/.gradle/caches/transforms-2/files-2.1/95dc121ca492af64217ccecc35a96536/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/cb139b455ca8a3f6429330689692142b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/cb139b455ca8a3f6429330689692142b/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/033a6ba54ab0aa3cc1c10902106907ab/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/033a6ba54ab0aa3cc1c10902106907ab/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c05771ef9c076182d7d1072f4229ecc8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c05771ef9c076182d7d1072f4229ecc8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/7e67bc755983838d593d3a384e9ac220/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/7e67bc755983838d593d3a384e9ac220/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9a551ae942fbca9c0469a993669e12f4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9a551ae942fbca9c0469a993669e12f4/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4efc20200ab32a9f3078402a42e4e2fd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4efc20200ab32a9f3078402a42e4e2fd/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/75f3b6251b2937759e1f71ff480067c1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/75f3b6251b2937759e1f71ff480067c1/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1826852ce21e42aebcf2d46259f4a5ae/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1826852ce21e42aebcf2d46259f4a5ae/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/b8ef62eaf23c3aeffd9c86661ba535c1/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/b8ef62eaf23c3aeffd9c86661ba535c1/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/e8733584c4ba925fb77f98254e8b745a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/e8733584c4ba925fb77f98254e8b745a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c215ac24b652d941b441e58998851840/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c215ac24b652d941b441e58998851840/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/60d464cfd62ff38f30851aeec6833b4a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/60d464cfd62ff38f30851aeec6833b4a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/43c81f55064cfd9f09f607abe2bb449f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/43c81f55064cfd9f09f607abe2bb449f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e4f54826299c535d666471b445207072/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/e4f54826299c535d666471b445207072/navigation-fragment-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6690efe43a27095f37ffe21b6caf856b/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6690efe43a27095f37ffe21b6caf856b/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] /home/koko/.gradle/caches/transforms-2/files-2.1/35fd2816bf70f24efa8ecc27d54cf9ee/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/koko/.gradle/caches/transforms-2/files-2.1/35fd2816bf70f24efa8ecc27d54cf9ee/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c7c997b9c9f2f5bf5667962147a21ae5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/c7c997b9c9f2f5bf5667962147a21ae5/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6fba5b6758e704b96f90f13c2846aa67/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/6fba5b6758e704b96f90f13c2846aa67/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/74e4bb884ea18e267f2bd1956987746a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/74e4bb884ea18e267f2bd1956987746a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/e59cd68c25cdc4d173778eab38f555b3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/e59cd68c25cdc4d173778eab38f555b3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/73e37dbce88c7e0db204f97e210735af/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/73e37dbce88c7e0db204f97e210735af/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/koko/.gradle/caches/transforms-2/files-2.1/3c6abdd78bfb7a131a96b4fa23a61d90/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/koko/.gradle/caches/transforms-2/files-2.1/3c6abdd78bfb7a131a96b4fa23a61d90/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ba2c002f79603ea0f3ad92b813f4f3b4/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ba2c002f79603ea0f3ad92b813f4f3b4/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/koko/.gradle/caches/transforms-2/files-2.1/f13d29420edb2be0fa67a7700fccca50/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/koko/.gradle/caches/transforms-2/files-2.1/f13d29420edb2be0fa67a7700fccca50/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/c0520b232a6c5e3d40b9b0cbd85b3b67/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/c0520b232a6c5e3d40b9b0cbd85b3b67/navigation-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/510d9cf5d0249635017da8e535f10fa3/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/510d9cf5d0249635017da8e535f10fa3/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/f3f6b778878cf934f289482ef9df85f4/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.1] /home/koko/.gradle/caches/transforms-2/files-2.1/f3f6b778878cf934f289482ef9df85f4/navigation-common-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/2f19846f5e80eae42c46785513f17ac5/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/koko/.gradle/caches/transforms-2/files-2.1/2f19846f5e80eae42c46785513f17ac5/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/03029a3146033f8d3e3d640285074a7d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/03029a3146033f8d3e3d640285074a7d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/d807491847251b886396fa04a5744785/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/d807491847251b886396fa04a5744785/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ea91a91564ee95ed3838cab7ee5492a7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ea91a91564ee95ed3838cab7ee5492a7/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/83953efb4cf224e09130565f904c13d0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/83953efb4cf224e09130565f904c13d0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/46ecd46949ab9f564de7a4b2771d76e5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/46ecd46949ab9f564de7a4b2771d76e5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/f2c176abe5b61dd3fb05396c581183c7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/f2c176abe5b61dd3fb05396c581183c7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/905e1df370bcd1cab5b2c566002212d1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/905e1df370bcd1cab5b2c566002212d1/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3bb24e899bb7e51f177981eaa6f802e2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3bb24e899bb7e51f177981eaa6f802e2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/38f9979670fb85ed6585676a451738d9/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/38f9979670fb85ed6585676a451738d9/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3226cb9798749150f9e1b444c763e8a6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/3226cb9798749150f9e1b444c763e8a6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/fcbdde2433082d994f3c20ec72011c36/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/koko/.gradle/caches/transforms-2/files-2.1/fcbdde2433082d994f3c20ec72011c36/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4b1cfd6e251da88f5f95851db0720019/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/4b1cfd6e251da88f5f95851db0720019/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/0b891f647f553d71832d3fc1c35802d4/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/0b891f647f553d71832d3fc1c35802d4/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/8de24a556d6a01959bc8a2aa8926bac9/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/koko/.gradle/caches/transforms-2/files-2.1/8de24a556d6a01959bc8a2aa8926bac9/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/8059390aa2cd0533d62994559279ff38/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/8059390aa2cd0533d62994559279ff38/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:4:3-70
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/koko/Programs/INF3995/inf3995-02/AndroidApp/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/9693ab7d0d0c75abf0cb8d43c6535f25/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/ed811dca0c0956a3558220060bc5eead/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/41ebf256ac529cb9770ca57990df9a8d/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /home/koko/.gradle/caches/transforms-2/files-2.1/1fc48d8276a3d57cd739799d075117e2/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] /home/koko/.gradle/caches/transforms-2/files-2.1/b9bb58bed9b8673a2a9d017cbb6adff6/jetified-core-1.7.2/AndroidManifest.xml:16:14-95
