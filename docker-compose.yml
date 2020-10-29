@@ -21,47 +21,47 @@ services:
     volumes:
       - "/var/run/docker.sock:/var/run/docker.sock:ro"
 
-      #Serveur web
-    myserver:
-      build: "./server-web" #where the dockerfile is
-      volumes:
-        - "/usr/src/server-web"
-      image: "serverweb:1"
-      container_name: "myserver"
-      labels:
-        - "traefik.enable=true" #traefik expose the container
-        - "traefik.http.routers.server.rule=PathPrefix(`/server`)"
-        - "traefik.http.services.myserver.loadbalancer.server.port=8081"
+    #Serveur web
+  myserver:
+    build: "./server-web" #where the dockerfile is
+    volumes:
+      - "/usr/src/server-web"
+    image: "serverweb:1"
+    container_name: "myserver"
+    labels:
+      - "traefik.enable=true" #traefik expose the container
+      - "traefik.http.routers.server.rule=PathPrefix(`/server`)"
+      - "traefik.http.services.myserver.loadbalancer.server.port=8081"
           
-    engin1: 
-      build: "./Engin1"
-      volumes: 
-      - "/usr/src/Engin1"
-      image: "engin1:1.0"   
-      container_name: "engin1"
-      labels:
-      - "traefik.enable=true" #traefik expose the container
-      - "traeffik.http.services.engin1.loadbalance.server.port=5001"
-      - "traefik.http.routers.engin1.rule=Path(`/station/recherche`, `/station/<code>`)"
+  engin1: 
+    build: "./Engin1"
+    volumes: 
+    - "/usr/src/Engin1"
+    image: "engin1:1.0"   
+    container_name: "engin1"
+    labels:
+    - "traefik.enable=true" #traefik expose the container
+    - "traeffik.http.services.engin1.loadbalance.server.port=5001"
+    - "traefik.http.routers.engin1.rule=Path(`/station/recherche`, `/station/<code>`)"
 
-    engin2:
-      build: "./Engin2"
-      volumes: 
-      - "/usr/src/Engin2" 
-      image: "engin2:1.0"   
-      container_name: "engin2"
-      labels:
-      - "traefik.enable=true" #traefik expose the container
-      - "traeffik.http.services.engin2.loadbalance.server.port = 5002"
-      - "traefik.http.routers.engin2.rule=Path(`/donnees/usage/<année>/<temps>/<station>`)"
+  engin2:
+    build: "./Engin2"
+    volumes: 
+    - "/usr/src/Engin2" 
+    image: "engin2:1.0"   
+    container_name: "engin2"
+    labels:
+    - "traefik.enable=true" #traefik expose the container
+    - "traeffik.http.services.engin2.loadbalance.server.port = 5002"
+    - "traefik.http.routers.engin2.rule=Path(`/donnees/usage/<année>/<temps>/<station>`)"
 
-    engin3:
-      build: "./Engin3"
-      volumes: 
-      - "/usr/src/Engin3"
-      image: "engin3:1.0"   
-      container_name: "engin3"
-      labels:
-      - "traefik.enable=true" #traefik expose the container
-      - "traeffik.http.services.engin3.loadbalance.server.port = 5003"
-      - "traefik.http.routers.engin3.rule=Path(`/prediction/usage/<station>`, `/prediction/erreur`)"
+  engin3:
+    build: "./Engin3"
+    volumes: 
+    - "/usr/src/Engin3"
+    image: "engin3:1.0"   
+    container_name: "engin3"
+    labels:
+    - "traefik.enable=true" #traefik expose the container
+    - "traeffik.http.services.engin3.loadbalance.server.port = 5003"
+    - "traefik.http.routers.engin3.rule=Path(`/prediction/usage/<station>`, `/prediction/erreur`)"
