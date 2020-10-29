@@ -1,0 +1,55 @@
+version: "3.8"
+services:
+
+#Traefik
+  traekif:
+    image: traefik:1
+    container_name: trfk
+    command: 
+      - --web --docker --docker.domain=docker.localhost --logLevel=DEBUG
+      - "--entrypoints.web.address=:80"
+    ports:
+      - "80:80"
+      - "8080:8080"
+      - "443:443"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - "webgateway"
+
+  networks:
+    webgateway:
+     driver: bridge
+  
+    
+
+#Serveur web
+  server-web:
+    build: ./server-web #where the dockerfile is
+    volumes:
+      -./server-web/usr/src/server-web
+    image: serverweb:1 # pas sure 
+    ports:
+      - "80:443"
+    networks:
+      - "backend"
+
+#Database
+  database:
+    image: mySql
+  depends-on:
+    -server-web
+
+
+#Engin 1
+  engin1:
+    build:
+
+#Engin 2
+  engin2:
+    build:
+
+#Engin 3
+  engin3:
+    build:
+    

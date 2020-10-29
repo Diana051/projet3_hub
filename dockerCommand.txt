@@ -1,0 +1,20 @@
+#to build the container/image
+docker build --tag serverweb:1 .
+
+#to run an image in a specific port
+docker run --publish 8000:8080 --detach --name NOM_DU_CONTENEUR NOM_DE_IMAGE
+
+#to see all containers
+docker container ls
+
+#to see all images
+docker images
+
+# inspect net connection
+sudo netstat -tulpn
+ip addr show
+docker network ls
+docker network inspect bridge
+
+# rouler docker Compose
+docker-compose up

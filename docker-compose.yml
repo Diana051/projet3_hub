@@ -1,0 +1,34 @@
+version: "3.8"
+services:
+    traefik:
+      image: "traefik:v2.3"
+      container_name: "trfk"
+      command:
+        - "--log.level=DEBUG"
+        - "--api.insecure=true"
+        - "--providers.docker=true"
+        - "--providers.docker.exposedbydefault=false"
+        - "--entrypoints.web.address=:80"
+        - "--entrypoints.web.http.redirections.entryPoint.to=websecure"
+        - "--entrypoints.web.http.redirections.entryPoint.scheme=https"
+        - "--entrypoints.web.http.redirections.entrypoint.permanent=true"
+      # - "--entrypoints.web.http.redirections.entrypoint.priority=10"
+        - "--entrypoints.websecure.address=:443"
+      ports:
+        - "80:80"
+        - "443:443"
+        - "8080:8080"
+      volumes:
+        - "/var/run/docker.sock:/var/run/docker.sock:ro"
+
+      #Serveur web
+    myserver:
+        build: "./server-web" #where the dockerfile is
+        volumes:
+          - "/usr/src/server-web"
+        image: "serverweb:1"
+        container_name: "myserver"
+        labels:
+          - "traefik.enable=true" #traefik expose the container
+          - "traefik.http.routers.server.rule=PathPrefix(`/server`)"
+          - "traefik.http.services.myserver.loadbalancer.server.port=8081"
