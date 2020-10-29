@@ -1,0 +1,31 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Material" parent="Theme.MaterialComponents">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryDark</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSurface">@color/colorPrimaryDark</item>
+        <item name="colorError">@color/colorSecondary</item>
+        <item name="colorOnSurface">@color/colorOnPrimary</item>
+        <item name="helperTextTextColor">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">#FFFFFFFF</item>
+        <item name ="android:textCursorDrawable">@null</item>
+        <item name="android:textColorPrimary">@color/colorOnPrimary</item>
+
+        <item name="android:textColorHint">@color/colorOnPrimary</item>
+
+    </style>
+
+    <style name="Material.NoActionBar" parent="Material">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="TextAppearance.MaterialComponents" parent="Material">
+
+    </style>
+
+</resources>

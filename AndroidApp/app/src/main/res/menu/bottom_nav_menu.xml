@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchFragment"
+        android:title="@string/stations"
+        android:icon="@drawable/ic_engin1"/>
+
+    <item
+        android:id="@+id/dataFragment"
+        android:title="@string/data"
+        android:icon="@drawable/ic_engin2"/>
+
+    <item
+        android:id="@+id/predictionsFragment"
+        android:title="@string/predicitons"
+        android:icon="@drawable/ic_engin3"/>
+
+</menu>

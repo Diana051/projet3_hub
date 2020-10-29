@@ -9,14 +9,14 @@ services:
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=false"
       - "--entrypoints.web.address=:80"
-      - "--entrypoints.web.http.redirections.entryPoint.to=websecure"
-      - "--entrypoints.web.http.redirections.entryPoint.scheme=https"
-      - "--entrypoints.web.http.redirections.entrypoint.permanent=true"
+    #  - "--entrypoints.web.http.redirections.entryPoint.to=websecure"
+    #  - "--entrypoints.web.http.redirections.entryPoint.scheme=https"
+    #  - "--entrypoints.web.http.redirections.entrypoint.permanent=true"
     # - "--entrypoints.web.http.redirections.entrypoint.priority=10"
-      - "--entrypoints.websecure.address=:443"
+    #  - "--entrypoints.websecure.address=:443"
     ports:
       - "80:80"
-      - "443:443"
+    #  - "443:443"
       - "8080:8080"
     volumes:
       - "/var/run/docker.sock:/var/run/docker.sock:ro"
@@ -30,6 +30,7 @@ services:
     container_name: "myserver"
     labels:
       - "traefik.enable=true" #traefik expose the container
+      - "traefik.http.routers.server.rule=Host(`*`)"
       - "traefik.http.routers.server.rule=PathPrefix(`/server`)"
       - "traefik.http.services.myserver.loadbalancer.server.port=8081"
           
@@ -41,8 +42,11 @@ services:
     container_name: "engin1"
     labels:
     - "traefik.enable=true" #traefik expose the container
+    - "traefik.http.routers.engin1.rule=Host(`*`)"
+    - "traefik.http.routers.engin1.rule=PathPrefix(`/station`)"
     - "traeffik.http.services.engin1.loadbalance.server.port=5001"
-    - "traefik.http.routers.engin1.rule=Path(`/station/recherche`, `/station/<code>`)"
+    ports:
+      - "5001:5001"
 
   engin2:
     build: "./Engin2"
@@ -52,8 +56,11 @@ services:
     container_name: "engin2"
     labels:
     - "traefik.enable=true" #traefik expose the container
+    - "traefik.http.routers.engin2.rule=Host(`*`)"
+    - "traefik.http.routers.engin2.rule=PathPrefix(`/donnees`)"
     - "traeffik.http.services.engin2.loadbalance.server.port = 5002"
-    - "traefik.http.routers.engin2.rule=Path(`/donnees/usage/<année>/<temps>/<station>`)"
+    ports:
+      - "5002:5002"
 
   engin3:
     build: "./Engin3"
@@ -63,5 +70,8 @@ services:
     container_name: "engin3"
     labels:
     - "traefik.enable=true" #traefik expose the container
+    - "traefik.http.routers.engin3.rule=Host(`*`)"
+    - "traefik.http.routers.engin3.rule=PathPrefix(`/prediction`)"
     - "traeffik.http.services.engin3.loadbalance.server.port = 5003"
-    - "traefik.http.routers.engin3.rule=Path(`/prediction/usage/<station>`, `/prediction/erreur`)"
+    ports:
+      - "5003:5003"
